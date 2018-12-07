@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         RandStuff degenerator
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/alxbb/RS_degenerator/blob/master/RandStuff%20degenerator.user.js
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
